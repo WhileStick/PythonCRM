@@ -1,0 +1,24 @@
+#emptyline {
+    border: 1px solid red;
+}
+* {
+    font-size: 28px;
+}
+
+#LoginForm {
+    background-image: url(Images\cotravel.png);
+    background-color: #68c7dc;
+}
+
+#LoginBullet {
+    background-color: white;
+    border: 1px solid black;
+}
+
+#GreenButton {
+    background-color: #56c06d;
+}
+
+#DarkTopper {
+    background-color: green;
+}
